@@ -17,4 +17,4 @@ intro_paragraph: >
 
 > In our case, to replace yourchurchnamenp.netlify.com to yourchurchnamenp.org cost about 10 USD per year. There are many companies doing this business, you can search internet to find one. 
 
-![jekyll](/tutorial/homepage.png)
+![jekyll](/assets/img/homepage.png)
